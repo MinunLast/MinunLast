@@ -5,7 +5,7 @@
 * #### 
 
 ### 👽 Stack
-* #### **`HTML`** | **`CSS`** | **`JavaScript`** | **`Bootstrap`** | **`JQuery`** |
+* #### **`HTML`** | **`CSS`** | **`JavaScript`** | **`Bootstrap`** | **`JQuery`** | **`C#`** |
 
 ### 🌟 Aprendiendo actualmente
 * #### **`Angular`**  
