@@ -11,6 +11,6 @@
 * #### **`Angular`**  
 
 ### 📫 How to reach me:
-**https://www.linkedin.com/in/lautaro-daniel-lópez-forcellini/**
+**https://www.linkedin.com/in/lautaro-daniel-lopez-forcellini/**
 
 
