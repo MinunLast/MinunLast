@@ -1,5 +1,5 @@
 ## 👋 hello-world 
-## 👦 Mi nombre es Lautaro - Soy desarrollador frontend con vision a ser fullstack
+## 👦 Mi nombre es Lautaro - Soy desarrollador fullstack
 
 ### 💻 Mi portafolio 
 * #### 
