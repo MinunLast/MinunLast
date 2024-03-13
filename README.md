@@ -1,6 +1,6 @@
 # Bienvenido a mi perfil de GitHub 👋
 
-¡Hola! Soy Lautaro Daniel López Forcellini, un apasionado programador con experiencia en C#.
+¡Hola! Soy Lautaro Daniel López Forcellini, un apasionado programador con experiencia en C#. Comence con la programacion en 2022 de forma autonoma, actualmente me encuentro en el segundo año de la tecnicatura en programacion y considero tener los conocimientos necesarios para abrirme al mundo laboral.
 
 ## Acerca de mí
 
