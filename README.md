@@ -38,8 +38,9 @@ Tengo experiencia y conocimientos en varios patrones de diseño, incluyendo:
 
 ## Proyectos destacados
 
-- [Proyecto 1]([enlace al proyecto](https://github.com/MinunLast/GestionCine)) - Gestion de cines, FormWebApi 
-- [Proyecto 2](enlace al proyecto) - Una breve descripción del proyecto.
+- [FromWebApi PrimoMorse](https://github.com/MinunLast/PrimosMorse) - Proyecto que verifica el tipo de escritura para convertirlo en código morse o escritura convencional, y que verifica si un número es primo o no, además de dar una cierta cantidad de números primos. En este proyecto se implementa una mejora en el manejo de capas, acceso a una API Rest e inyección de dependencias.
+- [Gestión de cines](https://github.com/MinunLast/GestionCine) - Utilizando los principios de diseño Singleton, DAO, inyección de dependencias y un sólido enfoque en el manejo de capas, este proyecto muestra la capacidad para abordar desafíos complejos y desarrollar soluciones prácticas y eficientes. Gestiona usuarios, boletos, películas y horarios.
+
 
 ## Contacto
 
