@@ -38,7 +38,7 @@ Tengo experiencia y conocimientos en varios patrones de diseño, incluyendo:
 
 ## Proyectos destacados
 
-- [Proyecto 1](enlace al proyecto) - Una breve descripción del proyecto.
+- [Proyecto 1]([enlace al proyecto](https://github.com/MinunLast/GestionCine)) - Gestion de cines, FormWebApi 
 - [Proyecto 2](enlace al proyecto) - Una breve descripción del proyecto.
 
 ## Contacto
